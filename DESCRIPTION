@@ -1,11 +1,11 @@
-Package: bst260project
+Package: finalproject
 Title: project code and narrative
 Version: 0.0.3
 Authors@R:
-    person(given = "yourfirstname",
-           family = "lastname",
+    person(given = "Miaoyuan",
+           family = "Wen",
            role = c("aut", "cre"),
-           email = "youremail@gmail.com",
+           email = "mwen@hsph.harvard.edu",
            comment = c(ORCID = "0000-0002-1825-0097"))
 Description: provide text on what your project emphasizes and 
 	accomplishes in three or more complete sentences.
