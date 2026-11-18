@@ -1,4 +1,4 @@
-# BST 260 Final Project
+# finalproject
 
 Instructions and template for projects for 2026 HSPH BST260
 
